@@ -15,7 +15,7 @@
 
 <h2 align="center">current projects</h2>
 
-- [DoubleTap.Space](https://discord.com/invite/uhHfefeX7a)
+- [DoubleTap.Space](https://doubletap.space)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DomesticTerrorist&count_private=true&show_icons=true&theme=dracula)
 
